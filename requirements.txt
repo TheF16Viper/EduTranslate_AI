@@ -1,0 +1,9 @@
+ibm-watsonx-ai
+python-dotenv
+streamlit
+langchain
+langchain-ibm
+langchain-chroma
+pymupdf
+python-docx
+python-pptx

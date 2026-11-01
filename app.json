@@ -1,0 +1,10 @@
+{
+  "name": "EduTranslate_AI",
+  "description": "Multi-language Course Content Translator Agent using IBM Granite-4-H-Small and a local pure-Python RAG framework.",
+  "repository": "https://github.com",
+  "logo": "https://githubusercontent.com",
+  "keywords": ["ibm", "watsonx", "granite", "streamlit", "rag", "education", "translation"],
+  "scripts": {
+    "start": "streamlit run app.py"
+  }
+}
